@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\UAS__128\UAS__128\obj\Debug\UAS__128.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UAS__128\UAS__128\obj\Debug\UAS__128.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\UAS__128\UAS__128\obj\Debug\UAS__128.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UAS__128\UAS__128\bin\Debug\UAS__128.exe.config
+C:\Users\HP\source\repos\UAS__128\UAS__128\bin\Debug\UAS__128.exe
+C:\Users\HP\source\repos\UAS__128\UAS__128\bin\Debug\UAS__128.pdb
+C:\Users\HP\source\repos\UAS__128\UAS__128\obj\Debug\UAS__128.exe
+C:\Users\HP\source\repos\UAS__128\UAS__128\obj\Debug\UAS__128.pdb
